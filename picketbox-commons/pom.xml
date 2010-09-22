@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<parent>
+		<groupId>org.picketbox</groupId>
+		<artifactId>picketbox-commons-aggregator-pom</artifactId>	
+		<version>3.0.0.CR1-SNAPSHOT</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.picketbox</groupId>
+	<artifactId>picketbox-commons</artifactId>
+	<packaging>jar</packaging>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>Picketbox Commons</name>
+	<url>http://jboss.org/picketbox</url>
+	<description>Common classes for security projects</description>
+</project>
