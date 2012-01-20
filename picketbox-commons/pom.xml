@@ -9,7 +9,7 @@
 	<groupId>org.picketbox</groupId>
 	<artifactId>picketbox-commons</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0.final</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>Picketbox Commons</name>
 	<url>http://jboss.org/picketbox</url>
 	<description>Common classes for security projects</description>
