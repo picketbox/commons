@@ -15,7 +15,7 @@
 	<description>Common classes for security projects</description>
 	<licenses>
 		<license>
-			<name>lgpl</name>
+			<name>GNU Lesser General Public License v2.1 only</name>
 			<url>http://repository.jboss.com/licenses/lgpl.txt</url>
 		</license>
 	</licenses>
